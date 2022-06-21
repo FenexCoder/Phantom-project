@@ -12,3 +12,9 @@ Bump a file to the size you want.
 Generate junk code in C# and Vb.Net.
 
 Change the icon to any file.
+
+
+![phantom project bump](https://user-images.githubusercontent.com/107760092/174878135-b73248eb-d25f-4f08-9367-12d9dd7400c3.png)
+![junk code](https://user-images.githubusercontent.com/107760092/174878156-283fd1a6-1551-4dcf-b498-4951c98b62d3.png)
+![extension changer](https://user-images.githubusercontent.com/107760092/174878165-6be0bf79-28c6-40c8-932e-8b1955b4b7b2.png)
+![icon changer](https://user-images.githubusercontent.com/107760092/174878169-e7325efd-5aea-4018-9e6c-3cfce7d5ce8e.png)
