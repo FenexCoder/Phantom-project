@@ -7,7 +7,7 @@ With this tool you can:
 
 Change the extensions of your files.
 
-Bump a file to the size you want.
+Pump a file to the size you want.
 
 Generate junk code in C# and Vb.Net.
 
